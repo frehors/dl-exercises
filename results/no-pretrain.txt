@@ -1,0 +1,79 @@
+train acc: tensor(0., dtype=torch.float64)
+val acc: tensor(0., dtype=torch.float64)
+Epoch 0/14
+----------
+train Loss: 2.3584 Acc: 0.4016
+val Loss: 0.6794 Acc: 0.5621
+
+Epoch 1/14
+----------
+train Loss: 0.7729 Acc: 0.5205
+val Loss: 0.7280 Acc: 0.5686
+
+Epoch 2/14
+----------
+train Loss: 0.7259 Acc: 0.5738
+val Loss: 0.6624 Acc: 0.6078
+
+Epoch 3/14
+----------
+train Loss: 0.6381 Acc: 0.6557
+val Loss: 0.6955 Acc: 0.6732
+
+Epoch 4/14
+----------
+train Loss: 0.6230 Acc: 0.6475
+val Loss: 0.6588 Acc: 0.6928
+
+Epoch 5/14
+----------
+train Loss: 0.7242 Acc: 0.5902
+val Loss: 0.7429 Acc: 0.5817
+
+Epoch 6/14
+----------
+train Loss: 0.6794 Acc: 0.6270
+val Loss: 0.7880 Acc: 0.6536
+
+Epoch 7/14
+----------
+train Loss: 0.6989 Acc: 0.6434
+val Loss: 0.6960 Acc: 0.6340
+
+Epoch 8/14
+----------
+train Loss: 0.6587 Acc: 0.6230
+val Loss: 0.8869 Acc: 0.5882
+
+Epoch 9/14
+----------
+train Loss: 0.6335 Acc: 0.6598
+val Loss: 0.6174 Acc: 0.6863
+
+Epoch 10/14
+----------
+train Loss: 0.6035 Acc: 0.6270
+val Loss: 0.6112 Acc: 0.7255
+
+Epoch 11/14
+----------
+train Loss: 0.6150 Acc: 0.6885
+val Loss: 0.6486 Acc: 0.7124
+
+Epoch 12/14
+----------
+train Loss: 0.5685 Acc: 0.7049
+val Loss: 0.5808 Acc: 0.6993
+
+Epoch 13/14
+----------
+train Loss: 0.5642 Acc: 0.6803
+val Loss: 0.5702 Acc: 0.7320
+
+Epoch 14/14
+----------
+train Loss: 0.6378 Acc: 0.6680
+val Loss: 0.6893 Acc: 0.7386
+
+Training complete in 13m 35s
+Best val Acc: 0.738562
